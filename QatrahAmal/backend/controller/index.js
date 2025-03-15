@@ -1,3 +1,4 @@
 module.exports= {
-    donar : require('./donarController')
+    donar : require('./donarController'),
+    hospetalController : require('./hospetalController')
 }
